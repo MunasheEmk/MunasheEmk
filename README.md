@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MunasheEmk
 - 👀 I’m interested in Mobile app development
-- 🌱 I’m currently learning Java and Mobile App Development
-- 💞️ I’m looking to collaborate on Java and Mobile App Dev
+- 🌱 I’m currently learning Java and JavaScript and Mobile App Development
+- 💞️ I’m looking to collaborate on JavaScript and Mobile App Dev
 - 📫 How to reach me kaundikizab@gmail.com / whatsApp +263788784000
 
 <!---
