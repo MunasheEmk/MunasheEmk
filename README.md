@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MunasheEmk
 - 👀 I’m interested in Mobile and Web app development
-- 🌱 I’m currently learning React native, JavaScript, Html, CSS and PhP 
-- 💞️ I’m looking to collaborate on React native, JavaScript, Html, CSS and PhP
+- 🌱 I’m currently learning React native, JavaScript, Java, Dart and Golang 
+- 💞️ I’m looking to collaborate on React native, JavaScript, Java, Dart and Golang 
 - 📫 How to reach me kaundikizab@gmail.com / whatsApp +263788784000
 
 <!---
